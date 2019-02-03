@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "III",
+        "B B",
+        "   "
+    ],
+    
+    "key": 
+    {
+        "I": 
+        {
+            "item": "minecraft:iron_ingot"
+        },
+        
+        "B": 
+        {
+            "item": "uc:compressed_iron_block"
+        }
+    },
+    
+    "result":
+    {
+        "item": "ugc:compressed_iron_helmet",
+        "count": 1
+    }
+}

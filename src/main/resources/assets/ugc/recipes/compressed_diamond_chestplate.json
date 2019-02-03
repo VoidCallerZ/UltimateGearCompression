@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "B B",
+        "III",
+        "BIB"
+    ],
+    
+    "key": 
+    {
+        "I": 
+        {
+            "item": "minecraft:diamond"
+        },
+        
+        "B": 
+        {
+            "item": "uc:compressed_diamond_block"
+        }
+    },
+    
+    "result":
+    {
+        "item": "ugc:compressed_diamond_chestplate",
+        "count": 1
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "BBB",
+        "I I",
+        "I I"
+    ],
+    
+    "key": 
+    {
+        "I": 
+        {
+            "item": "minecraft:gold_ingot"
+        },
+        
+        "B": 
+        {
+            "item": "uc:compressed_gold_block"
+        }
+    },
+    
+    "result":
+    {
+        "item": "ugc:compressed_gold_leggings",
+        "count": 1
+    }
+}

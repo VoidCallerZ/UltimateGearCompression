@@ -1,0 +1,43 @@
+//CreativeTabs
+itemGroup.ultimategearcompressiontab=Ultimate Gear Compression
+
+//Tools
+item.compressed_wood_sword.name=Compressed Wooden Sword
+item.compressed_wood_pickaxe.name=Compressed Wooden Pickaxe
+item.compressed_wood_axe.name=Compressed Wooden Axe
+item.compressed_wood_shovel.name=Compressed Wooden Shovel
+item.compressed_wood_hoe.name=Compressed Wooden Hoe
+
+item.compressed_iron_sword.name=Compressed Iron Sword
+item.compressed_iron_pickaxe.name=Compressed Iron Pickaxe
+item.compressed_iron_axe.name=Compressed Iron Axe
+item.compressed_iron_shovel.name=Compressed Iron Shovel
+item.compressed_iron_hoe.name=Compressed Iron Hoe
+
+item.compressed_gold_sword.name=Compressed Gold Sword
+item.compressed_gold_pickaxe.name=Compressed Gold Pickaxe
+item.compressed_gold_axe.name=Compressed Gold Axe
+item.compressed_gold_shovel.name=Compressed Gold Shovel
+item.compressed_gold_hoe.name=Compressed Gold Hoe
+
+item.compressed_diamond_sword.name=Compressed Diamond Sword
+item.compressed_diamond_pickaxe.name=Compressed Diamond Pickaxe
+item.compressed_diamond_axe.name=Compressed Diamond Axe
+item.compressed_diamond_shovel.name=Compressed Diamond Shovel
+item.compressed_diamond_hoe.name=Compressed Diamond Hoe
+
+//Armor
+item.compressed_iron_helmet.name=Compressed Iron Helmet
+item.compressed_iron_chestplate.name=Compressed Iron Chestplate
+item.compressed_iron_leggings.name=Compressed Iron Leggings
+item.compressed_iron_boots.name=Compressed Iron Boots
+
+item.compressed_gold_helmet.name=Compressed Gold Helmet
+item.compressed_gold_chestplate.name=Compressed Gold Chestplate
+item.compressed_gold_leggings.name=Compressed Gold Leggings
+item.compressed_gold_boots.name=Compressed Gold Boots
+
+item.compressed_diamond_helmet.name=Compressed Diamond Helmet
+item.compressed_diamond_chestplate.name=Compressed Diamond Chestplate
+item.compressed_diamond_leggings.name=Compressed Diamond Leggings
+item.compressed_diamond_boots.name=Compressed Diamond Boots

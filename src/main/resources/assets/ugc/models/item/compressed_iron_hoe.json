@@ -1,0 +1,7 @@
+{
+	"parent": "item/handheld",
+	"textures": 
+	{
+		"layer0": "ugc:items/compressed_iron_hoe"
+	}
+}

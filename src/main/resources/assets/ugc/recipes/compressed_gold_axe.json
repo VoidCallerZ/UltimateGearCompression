@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        " CC",
+        " SC",
+        " S "
+    ],
+    
+    "key": 
+    {
+        "C": 
+        {
+            "item": "uc:compressed_gold_block"
+        },
+        
+        "S": 
+        {
+            "item": "minecraft:stick"
+        }
+    },
+    
+    "result":
+    {
+        "item": "ugc:compressed_gold_axe",
+        "count": 1
+    }
+}

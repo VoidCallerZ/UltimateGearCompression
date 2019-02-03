@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "III",
+        "B B",
+        "   "
+    ],
+    
+    "key": 
+    {
+        "I": 
+        {
+            "item": "minecraft:diamond"
+        },
+        
+        "B": 
+        {
+            "item": "uc:compressed_diamond_block"
+        }
+    },
+    
+    "result":
+    {
+        "item": "ugc:compressed_diamond_helmet",
+        "count": 1
+    }
+}
